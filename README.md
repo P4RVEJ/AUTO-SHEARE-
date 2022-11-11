@@ -1,4 +1,4 @@
-# AUTO-SHEARE-
+# AUTO-SHEARE
 Facebook post auto sheare tools🤙
 FACRBOOK AUTO SHEARE TOOLS🤙
 100k sheare🤦‍♂️
