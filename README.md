@@ -15,9 +15,9 @@ $pip install requests
 
 $pip install bs4
 
-$git clone https://github.com/P4RVEJ/AUTO-SHEARE
+$git clone https://github.com/P4RVEJ/AUTO-SHEARE-
  
-$cd AUTO-SHEARE 
+$cd AUTO-SHEARE-
 
 $python run.py
 
